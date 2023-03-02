@@ -1,0 +1,16 @@
+.cardContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 50px 10px;
+    gap: 10px;
+}
+
+.cardContent {
+    border: 2px solid #004543;
+    box-shadow: 2px 2px 2px #004543;
+    border-radius: 10px;
+}
+
+.cardContent img{
+    width: 90%;
+}

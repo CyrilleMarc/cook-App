@@ -1,0 +1,13 @@
+.searchContainer input {
+  width: 30%;
+  height: 30px;
+  border-radius: 10px;
+  background: transparent;
+  border: 2px solid #004543;
+  padding: 10px;
+  color: #004543;
+}
+
+.searchContainer ::placeholder: {
+  color: red;
+}

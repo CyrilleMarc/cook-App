@@ -1,0 +1,24 @@
+*, body{
+    margin: 0px;
+    background-color: #c5bcb5;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+.headerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+
+.headerContainer img{
+    width: 10%;
+    height: 150px;
+    border-radius: 100%;
+  
+}
+
+.headerContainer h1 {
+    color: #004543;
+}
